@@ -17,8 +17,10 @@ public class Ob {
 	{
 		Test t = new Test (101,"Shree");
 		Test T =(Test) t.clone();
+		//hfgfgfg
 		t.display();
 		T.display();
+		
 	}
 }
 }
